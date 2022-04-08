@@ -9,4 +9,5 @@ export const fetchApi = async (url) => {
       "X-RapidAPI-Key": "d57b1a3e6dmshf74cb51c7d772a7p1f47c5jsn9e04c7903b05",
     },
   });
+  return data;
 };
